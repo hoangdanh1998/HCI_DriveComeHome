@@ -128,7 +128,7 @@ class LoginScreen extends React.Component {
             }}
             source={{
               uri:
-                '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/background.jpg',
+                '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/background.jpg',
             }}
           />
         </View>

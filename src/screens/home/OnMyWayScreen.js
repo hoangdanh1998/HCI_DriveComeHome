@@ -30,7 +30,7 @@ class OnMyWayScreen extends React.Component {
               style={{height: '100%', width: '100%'}}
               source={{
                 uri:
-                  '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/onmyway.png',
+                  '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/onmyway.png',
               }}
             />
           </TouchableOpacity>
@@ -44,7 +44,7 @@ class OnMyWayScreen extends React.Component {
               <Text
                 style={{
                   flex: 1,
-                  width: '100%',
+                  width: '110%',
                   textAlign: 'center',
                   fontSize: 21,
                   fontWeight: '500',
@@ -59,6 +59,13 @@ class OnMyWayScreen extends React.Component {
                   alignItems: 'center',
                 }}>
                 <Icon name="checkmark" size={100} color="green" />
+                <Image
+                  style={{height: '50%', width: '100%'}}
+                  source={{
+                    uri:
+                      '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/rating-outline.jpg',
+                  }}
+                />
               </View>
               <View
                 style={{
@@ -71,7 +78,7 @@ class OnMyWayScreen extends React.Component {
                   onPress={() => {
                     navigation.goBack();
                   }}>
-                  <Text style={{color: 'green', fontSize: 20}}>Đánh giá</Text>
+                  <Text style={{color: 'green', fontSize: 20}}>Gửi</Text>
                 </TouchableOpacity>
                 <TouchableOpacity
                   onPress={() => {

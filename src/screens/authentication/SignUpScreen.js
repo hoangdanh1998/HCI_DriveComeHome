@@ -49,7 +49,7 @@ class SignUpScreen extends React.Component {
                 }}
                 source={{
                   uri:
-                    '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/quocky.png',
+                    '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/quocky.png',
                 }}
               />
               <Text>+84</Text>

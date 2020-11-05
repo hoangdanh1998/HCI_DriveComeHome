@@ -34,7 +34,7 @@ class ComingScreen extends React.Component {
               style={{height: '100%', width: '100%'}}
               source={{
                 uri:
-                  '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/coming.png',
+                  '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/coming.png',
               }}
             />
           </TouchableOpacity>
@@ -52,7 +52,7 @@ class ComingScreen extends React.Component {
               style={{height: '100%', width: '100%'}}
               source={{
                 uri:
-                  '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/infotaixe.png',
+                  '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/infotaixe.png',
               }}
             />
           </View>
@@ -88,7 +88,7 @@ class ComingScreen extends React.Component {
                 }}
                 source={{
                   uri:
-                    '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/Huy.png',
+                    '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/Huy.png',
                 }}
               />
             </TouchableOpacity>
@@ -124,7 +124,7 @@ class ComingScreen extends React.Component {
                   }}
                   source={{
                     uri:
-                      '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/came.png',
+                      '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/came.png',
                   }}
                 />
               </TouchableOpacity>

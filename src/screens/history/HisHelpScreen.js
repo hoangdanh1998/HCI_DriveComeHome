@@ -14,7 +14,7 @@ class HisHelpScreen extends React.Component {
           }}
           source={{
             uri:
-              '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/HisHelpScreen.png',
+              '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/HisHelpScreen.png',
           }}
         />
       </SafeAreaView>

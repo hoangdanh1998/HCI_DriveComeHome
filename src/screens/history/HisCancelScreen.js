@@ -14,7 +14,7 @@ class HisCancelScreen extends React.Component {
           }}
           source={{
             uri:
-              '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/HisCancelScreen.png',
+              '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/HisCancelScreen.png',
           }}
         />
       </SafeAreaView>

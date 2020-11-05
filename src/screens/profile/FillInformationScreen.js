@@ -99,7 +99,7 @@ class FillInformationScreen extends React.Component {
                   style={styles.addImage}
                   source={{
                     uri:
-                      '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/addImage.png',
+                      '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/addImage.png',
                   }}
                 />
               </View>
@@ -109,7 +109,7 @@ class FillInformationScreen extends React.Component {
                   style={styles.addImage}
                   source={{
                     uri:
-                      '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/addImage.png',
+                      '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/addImage.png',
                   }}
                 />
               </View>
@@ -156,7 +156,7 @@ class FillInformationScreen extends React.Component {
                     }}
                     source={{
                       uri:
-                        '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/successgregister.png',
+                        '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/successgregister.png',
                     }}
                   />
                 </View>

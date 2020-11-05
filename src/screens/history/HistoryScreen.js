@@ -20,7 +20,7 @@ class HistoryScreen extends React.Component {
               }}
               source={{
                 uri:
-                  '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/HisCancel.png',
+                  '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/HisCancel.png',
               }}
             />
           </TouchableOpacity>
@@ -37,7 +37,7 @@ class HistoryScreen extends React.Component {
               }}
               source={{
                 uri:
-                  '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/HisHelp.png',
+                  '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/HisHelp.png',
               }}
             />
           </TouchableOpacity>
@@ -54,7 +54,7 @@ class HistoryScreen extends React.Component {
               }}
               source={{
                 uri:
-                  '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/HisKhancap.png',
+                  '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/HisKhancap.png',
               }}
             />
           </TouchableOpacity>

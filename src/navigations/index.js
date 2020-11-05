@@ -51,8 +51,9 @@ function MainNavigation() {
           options={{
             headerTitle: 'Đặt hộ',
             headerStyle: {backgroundColor: '#FFC700'},
-            headerBackTitleStyle: {color: 'black'},
+            // headerBackTitleStyle: {color: 'black'},
             headerTintColor: 'black',
+            headerBackTitleVisible: false,
           }}
         />
         <Stack.Screen

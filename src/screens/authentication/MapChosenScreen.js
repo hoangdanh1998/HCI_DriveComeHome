@@ -22,7 +22,7 @@ class MapChosenScreen extends React.Component {
           }}
           source={{
             uri:
-              '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/mappicker.png',
+              '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/mappicker.png',
           }}
         />
         <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>

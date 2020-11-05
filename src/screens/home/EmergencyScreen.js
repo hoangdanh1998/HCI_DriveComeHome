@@ -36,7 +36,7 @@ class EmergencyScreen extends React.Component {
               style={{height: '110%', width: '100%'}}
               source={{
                 uri:
-                  '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/map1.png',
+                  '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/map1.png',
               }}
             />
           </TouchableOpacity>
@@ -68,7 +68,7 @@ class EmergencyScreen extends React.Component {
               }}
               source={{
                 uri:
-                  '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/Info.png',
+                  '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/Info.png',
               }}
             />
           </TouchableOpacity>
@@ -84,7 +84,7 @@ class EmergencyScreen extends React.Component {
               }}
               source={{
                 uri:
-                  '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/Huy.png',
+                  '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/Huy.png',
               }}
             />
           </TouchableOpacity>
@@ -110,7 +110,7 @@ class EmergencyScreen extends React.Component {
                   }}
                   source={{
                     uri:
-                      '/Users/nguyenhoangdanh/Documents/Learning/ReactNative/DriveComeHome/src/asset/found.png',
+                      '/Users/hoang-danhnguyen/Documents/learning/HCI_DriveComeHome/src/asset/found.png',
                   }}
                 />
               </TouchableOpacity>
